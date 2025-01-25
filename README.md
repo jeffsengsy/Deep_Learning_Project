@@ -14,7 +14,7 @@ https://www.tensorflow.org/datasets/catalog/plant_leaves
 4502 images of 4502 images of healthy and unhealthy plant leaves
 - Will expand dataset once model has been created and trained
 
-# fallen_leaf: Execution
+# :fallen_leaf: Execution
 - Data Processing
 - Image Augmentation
 - Models: CNN, VGG
