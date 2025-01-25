@@ -9,7 +9,7 @@ This will help with
 Dataset: Satellite or drone images of crops
 Goal: Use computer vision to monitor plant health
 
-# maple_leaf: Dataset
+# :maple_leaf: Dataset
 https://www.tensorflow.org/datasets/catalog/plant_leaves
 4502 images of 4502 images of healthy and unhealthy plant leaves
 - Will expand dataset once model has been created and trained
