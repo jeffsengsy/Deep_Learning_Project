@@ -1,18 +1,21 @@
-# Deep_Learning_Project
+🌿 Plant Disease Detection using ResNet-50 & PlantVillage Dataset
 
-# :seedling: Problem 
-This project aims to automate the detection of plant health utilizing computer vision. - The application will dectect the plants health based on quality of leaves, height, and color.
-This will help with 
+This project leverages deep learning and transfer learning with ResNet-50 to classify plant diseases using the PlantVillage dataset. The model helps in identifying whether a plant is healthy or suffering from a disease, aiding in early diagnosis and better crop management.
 
+📌 Project Overview
+Dataset: PlantVillage (without augmentation) from ActiveLoop Hub
+Model: ResNet-50 (pretrained on ImageNet)
+Approach:
+Load and preprocess dataset
+Train a ResNet-50 model using transfer learning
+Evaluate model performance
+Visualize results using charts
 
-# :potted_plant: Smart Agriculture 
-Dataset: Satellite or drone images of crops
-Goal: Use computer vision to monitor plant health
+🗂 Dataset Description
+The dataset contains labeled images of healthy and diseased plants. Each image is categorized into:
 
-# :maple_leaf: Dataset
-https://www.tensorflow.org/datasets/catalog/plant_leaves
-4502 images of 4502 images of healthy and unhealthy plant leaves
-- Will expand dataset once model has been created and trained
+Healthy
+Diseased (various plant diseases like leaf spot, rust, mildew, etc.)
 
 # :fallen_leaf: Execution
 - Data Processing
