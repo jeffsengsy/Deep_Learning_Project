@@ -14,6 +14,9 @@ Visualize results using charts
 # 🗂 Dataset Description
 The dataset contains labeled images of healthy and diseased plants. Each image is categorized into:
 
+![image](https://github.com/user-attachments/assets/4d892065-6795-4a75-9429-d3b99b4dc027)
+
+
 Healthy
 Diseased (various plant diseases like leaf spot, rust, mildew, etc.)
 
